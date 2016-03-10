@@ -2,7 +2,7 @@
 
 Markdown is a way to write content for the web. It’s written in what nerds like to call “plaintext,” which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( * ) and backticks ( ` ).
 
-Markdown是一種編寫內容的方式。常常在編寫程式時看到，程式慣用者稱之為"plaintext"。Plaintext就是普通的英文字母與幾個熟悉的符號，如星號 ( * ) 和反引號 (` ).
+Markdown是一種編寫內容的方式。它是由普通的英文字母與幾個熟悉的符號等顯而易懂的語法撰寫而成，如星號 ( * ) 和反引號 (` )，在程式設計師稱之為“plaintext“.
 
 Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for academics, scientists, writers, and many more. Websites like GitHub and reddit use Markdown to style their comments.
 
